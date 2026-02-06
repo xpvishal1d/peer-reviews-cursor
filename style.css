@@ -52,6 +52,12 @@ nav div ul li a {
   color: #edecec;
 }
 
+.child-nav-left img {
+  width: 164px;
+   mix-blend-mode: screen;
+   margin-top: 5px;
+}
+
 .button-black {
   color: var(--white-color);
   background-color: var(--dark-color);
