@@ -1,0 +1,18 @@
+# Curser clone project
+ 
+ ## Resouses
+ - <b>Font</b> system-ui, -apple-system
+ - <b>Images</b> Look in to public folder.
+
+ ## Last Commit Id
+ ```id
+ 603ea3897debc858c07ed3f287d2986689873387
+```
+## Early Deployed link
+<a herf= "https://698604f39ca9e61db2b7c229--amazing-begonia-09b088.netlify.app/">Link Netlify  Click to view</a>
+
+<h6>
+    Reason For 9 commit, I was trying to deploy it Vercel first but any reason I'm getting error and to solve that error I make changes and commit that changes and pushed it on github. At last When I not get the soluntion of that problem. then I deploy it on Netlify..
+</h6>
+
+### Thanks you 💕😍
